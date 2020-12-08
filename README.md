@@ -9,11 +9,27 @@
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
 <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAmitdutta7%2FDiaries%2F">
+  
+![](https://i.imgur.com/PqkWuV8.png)
+
+## Project Setup
+Windows, Linux and Mac OS X
+```
+Download The Repository in a Zip file and Unzip it
+Install requirements.txt
+```
 
 ## Usage example
+
+**Home Screen**
+
 ![](https://i.imgur.com/nERYxsM.png)
 
+**Register Screen**
+
 ![](https://i.imgur.com/iDPU1UY.png)
+
+**Login Screen**
 
 ![](https://i.imgur.com/HBXAwQl.png)
 
