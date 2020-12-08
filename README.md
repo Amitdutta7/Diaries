@@ -13,10 +13,13 @@
 ![](https://i.imgur.com/PqkWuV8.png)
 
 ## Project Setup
-Windows, Linux and Mac OS X
+
+**Windows, Linux and Mac OS X**
 ```
-Download The Repository in a Zip file and Unzip it
-Install requirements.txt
+Download The Repository in a Zip file and Unzip all the Contents
+Setup a Virtual Environment and activate it
+Run the command pip install -r requirements.txt in your shell
+Run app.py
 ```
 
 ## Usage example
