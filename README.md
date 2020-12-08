@@ -19,7 +19,7 @@
 Download The Repository in a Zip file and Unzip all the Contents
 Setup a Virtual Environment and activate it
 Run the command pip install -r requirements.txt in your shell
-Run app.py
+Run run.py
 ```
 
 ## Usage example
